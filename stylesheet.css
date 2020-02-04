@@ -1,0 +1,25 @@
+body {
+	background-color: Green;
+}
+
+p {
+	font-family: TimesNewRoman;
+	font-style: Italic;
+	font-size: 12px;
+    color: Red;
+	font-weight: 2;
+}
+
+table {
+	margin: 50px;
+	padding: 75px;
+}
+
+.Grade {
+	font-size: 50px;
+	border-bottom: solid;
+}
+
+#Image {
+	color: Orange;
+}
